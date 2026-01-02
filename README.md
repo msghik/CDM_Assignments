@@ -1,6 +1,6 @@
 # CDM Assignments
 
-This repository contains the assignments for my **Computational Data Mining (CDM)** course.
+This repository contains the assignments for my **Computational Data Mining (CDM) | CS-1384653** course.
 
 ## Structure
 
